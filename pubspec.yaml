@@ -1,0 +1,91 @@
+name: fluttertest1
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^0.19.1
+  cupertino_icons: ^0.1.2
+  shared_preferences: ^0.5.7
+  dart_random_choice: ^0.0.2
+  flutter_launcher_icons: ^0.7.5
+  flare_flutter: ^2.0.3
+  flare_splash_screen: ^3.0.1
+  url_launcher: ^5.4.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon5.png"
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/ludostarboard.png
+  - assets/images/green.png
+  - assets/images/yellow.png
+  - assets/images/red.png
+  - assets/images/blue.png
+  - assets/images/circle.png
+  - assets/images/gem_9.png
+  - assets/images/ludostarlogo.png
+  - assets/images/play.png
+  - assets/images/shop.png
+  - assets/images/templateshop.png
+  - assets/images/magnet-blast.png
+  - assets/images/slashed-shield.png
+  - assets/images/hearts.png
+  - assets/images/all-for-one.png
+  - assets/images/rupee.png
+  - assets/images/charged-arrow.png
+  - assets/images/chest-armor.png
+  - assets/images/eagle-emblem.png
+  - assets/images/beanstalk.png
+  - assets/images/back.png
+  - assets/images/home.png
+  - assets/images/tuts.png
+  - assets/images/gem.png
+  - assets/images/credits.png
+  - assets/images/icon5.png
+  - assets/Tap.flr
+  - assets/images/voltic.png
+  - assets/images/banner2.jpg
+  - assets/images/d1.png
+  - assets/images/d2.png
+  - assets/images/d3.png
+  - assets/images/d4.png
+  - assets/images/d5.png
+  - assets/images/d6.png
+  - assets/images/d7.png
+  - assets/images/d8.png
+  - assets/images/d9.png
+  - assets/images/d10.png
+  - assets/images/d11.png
+  - assets/images/d12.png
+  - assets/images/d13.png
+  - assets/images/1.png
+  - assets/images/2.png
+  - assets/images/3.png
+  - assets/images/4.png
+  - assets/images/5.png
+  - assets/images/6.png
+  - assets/images/c1.png
+  - assets/images/c3.png
+  - assets/images/c4.png
+  - assets/images/c7.png
+  - assets/images/c9.png
+  - assets/images/c13.png
+  - assets/images/arrow.png
+  - assets/images/arrow90.png
